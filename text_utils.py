@@ -1,6 +1,10 @@
 def clean_text(text):
-    return text.strip().lower()
+    cleaned_text = text.lower().strip()
+    return cleaned_text
 
 
 def word_count(text):
-    return len(text.split( ))
+    count = 0
+    for _ in text.split():
+        count += 1
+    return count
