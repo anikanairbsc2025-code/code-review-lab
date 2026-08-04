@@ -6,7 +6,5 @@
 
 
 
-* Navya Chaudhary
-
-
+* Navya Chaudhary (@navyaachy)
 
