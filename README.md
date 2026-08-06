@@ -7,7 +7,5 @@
 
 
 * Navya Chaudhary (@navyaachy)
-* Twisha Shukla (@twishashukla26)
-
-
+* \- Twisha Shukla, she add name here for assignment purpose.
 
