@@ -15,3 +15,4 @@ Contributor
 feature/twishashukla26-edit
 * \- Twisha Shukla, she add name here for assignment purpose.
 
+Im anika, learning the git bash
